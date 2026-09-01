@@ -4,4 +4,4 @@ m = 'Computer Science'
 ti = 'Data Science'
 g = 'Development of a useful project'
 
-print(i, '\n', 'Name', name, '\n', 'Major', major, '\n', 'Interest: ',ti, '\n', 'Goal: ', g)
+print(i, '\n', 'Name', n, '\n', 'Major', m, '\n', 'Interest: ',ti, '\n', 'Goal: ', g)
